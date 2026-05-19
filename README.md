@@ -14,6 +14,7 @@ Before reproducing the pipelines below, install and configure the following on y
 8. **Cloud model APIs (as needed)**: For Kimi K2.5, GPT-5.4, Sonnet 4.6 patch generation or evaluation, you need the corresponding API keys, billing, and network access.
 
 Also install **Git**, use a Python version that satisfies this repo, and reserve **enough disk** for Docker images and directories such as `logs/` and `eval_logs/`.
+In local experiments, the Ollama environment addresses and open ports are all personal local links and ports. Please modify them by yourself if you need to reproduce the experiments.
 
 
 The workflow is as follows. PowerShell examples assume the current directory is already the repo root; under WSL, `cd` to the same clone (mount path varies by machine), then run the bash examples.
