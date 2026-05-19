@@ -1,3 +1,6 @@
+> **Dataset & logs:** This replication is large—the **full project** (all experimental **data** and **logs**) totals about **11 GB**, so those artifacts are intentionally omitted from the Git-tracked tree. The **complete package has been uploaded in split volumes to GitHub Releases**; please retrieve it from the **Releases** page.
+
+
 ## Experiment Workflow Used in This Project
 
 **Environment and prerequisites**
