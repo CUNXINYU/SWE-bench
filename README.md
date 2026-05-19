@@ -15,7 +15,6 @@ Before reproducing the pipelines below, install and configure the following on y
 
 Also install **Git**, use a Python version that satisfies this repo, and reserve **enough disk** for Docker images and directories such as `logs/` and `eval_logs/`.
 
-> **Public repository note:** Unless an absolute path is written explicitly, paths below are relative to the repository root. Do not put API keys, tokens, or personal proxy endpoints in public docs or commit them to Git.
 
 The workflow is as follows. PowerShell examples assume the current directory is already the repo root; under WSL, `cd` to the same clone (mount path varies by machine), then run the bash examples.
 
